@@ -1,0 +1,3 @@
+[submodule "ShadowFox"]
+	path = ShadowFox
+	url = https://github.com/overdodactyl/ShadowFox

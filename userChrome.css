@@ -1,0 +1,11 @@
+@import "ShadowFox/userChrome_imports.css";
+
+/* Hide horizontal tabs at the top of the window */
+#TabsToolbar {
+    visibility: collapse !important;
+}
+
+/* Hide Tree Style Tab sidebar header */
+#sidebar-box[sidebarcommand="treestyletab_piro_sakura_ne_jp-sidebar-action"] #sidebar-header {
+    display: none;
+}
